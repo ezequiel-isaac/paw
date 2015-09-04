@@ -1,0 +1,48 @@
+var a=1
+a
+a= "foo"
+a=true
+4 == "4"
+4 ==="4"
+typeof 10
+typeof "hola"
+typeof true
+typeof ()
+
+
+tipeof {}
+{}
+tipeof {}
+typeof {}
+typeof function saludar(){}
+0.1 + 0.2
+parse int(3.22222)
+parseInt(3.22222)
+parseFloat("234.12234456778906")
+parseFloat("10")
+parseInt("2345")
+1+4
+2*3
+6/2
+4%2
+"hola" + "mundo"
+{}
+var a ={}
+typeof a
+var mochila = {
+"marca" : "Samsonite",
+color : "negro"
+};
+typeof mochila
+mochila.color
+mochila.marca
+console.log(mochila.marca)
+console.log(mochila.color)
+var alumno={
+nombre : "ezequiel",apellido :"garcia"};
+alumno.nobre
+console.log(alumno.nobre)
+alumno.nombre
+console.log(alumno.nombre)
+console.log(alumno.apellido)
+.save./sesiondehoy200815.txt
